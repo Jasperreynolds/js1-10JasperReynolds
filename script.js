@@ -147,6 +147,7 @@ function loneSum(a, b, c){
     }
 }
 
+
 //function runs on click and outputs test cases you create to page
 function tester() {
     document.getElementById("output").innerHTML += sleep_in(true, false);
