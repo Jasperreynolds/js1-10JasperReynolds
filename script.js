@@ -159,4 +159,5 @@ function tester() {
     document.getElementById("output").innerHTML += fizz_buzz(true, false);
     document.getElementById("output").innerHTML += teaParty(true, false);
     document.getElementById("output").innerHTML += blackjack(true, false);
+    document.getElementById("output").innerHTML += loneSum(true, false);
 }
